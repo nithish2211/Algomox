@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (listName) {
          
             saveList(listName);
-            window.location.href = 'index.html';
+            window.location.href = 'home.html';
         }
     });
 
